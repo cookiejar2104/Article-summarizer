@@ -7,7 +7,7 @@ const App = () => {
   
   return (
     <>
-    <body className='bg-gradient-to-r from-red-200 to-white h-full' >
+    <body>
       
       <div>
         <Nav/>
