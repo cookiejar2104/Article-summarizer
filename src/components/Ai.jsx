@@ -80,15 +80,16 @@ const Ai = () => {
                 </div>
               ))
             }</div>
-            }
+          }
 
 
         </div>
 
         {/* response  */}
         <div className='justify-center max-w-[400px] sm:max-w-[600px] md:max-w-[800px]  p-2 rounded-lg mx-auto my-1'>
+        
           {isFetching ? (
-            <img src={loader} alt="loading.." className='w-20 h-20' />
+            <img src={loader} alt="loading.." className='w-10 h-10 mx-auto' />
           ) : error ? (
             <p>Oops! Something went wrong.</p>
           ) :
