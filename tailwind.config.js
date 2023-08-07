@@ -10,7 +10,8 @@ export default {
         satoshi : ["Satoshi", "sans-serif"],
         inter: ["Inter", "sans-serif"],
         pacifico : ["Pacifico", "cursive"],
-        courgette : ["Courgette", "cursive"]
+        courgette : ["Courgette", "cursive"],
+        oswald: ["Oswald", "sans-serif"]
       }
     },
   },
