@@ -1,6 +1,6 @@
 # React + Vite
 
-deployed at: https://storied-marzipan-5cfa78.netlify.app/
+deployed at: https://quick-read-by-cookie.netlify.app/
 
 
 
